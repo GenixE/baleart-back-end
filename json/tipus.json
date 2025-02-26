@@ -1,0 +1,156 @@
+{
+  "tipusespais": {
+    "tipus": [
+      {
+        "id": "1",
+        "cat": "Museu",
+        "esp": "Museo",
+        "eng": "Museum"
+      },
+      {
+        "id": "2",
+        "cat": "Galeria",
+        "esp": "Galería",
+        "eng": "Gallery"
+      },
+      {
+        "id": "3",
+        "cat": "Sala d\u2019exposicions",
+        "esp": "Sala de exposiciones",
+        "eng": "Exhibition hall"
+      },
+      {
+        "id": "4",
+        "cat": "Centre Cultural",
+        "esp": "Centro Cultural",
+        "eng": "Cultural Center"
+      },
+      {
+        "id": "5",
+        "cat": "Seu Institucional",
+        "esp": "Sede Institucional",
+        "eng": "Institutional Headquarters"
+      },
+      {
+        "id": "6",
+        "cat": "Hotel",
+        "esp": "Hotel",
+        "eng": "Hotel"
+      },
+      {
+        "id": "7",
+        "cat": "Palau",
+        "esp": "Palacio",
+        "eng": "Palace"
+      },
+      {
+        "id": "8",
+        "cat": "Refugi",
+        "esp": "Refugio",
+        "eng": "Shelter"
+      },
+      {
+        "id": "9",
+        "cat": "Casal",
+        "esp": "Casal",
+        "eng": "Casal"
+      },
+      {
+        "id": "10",
+        "cat": "Església",
+        "esp": "Iglesia",
+        "eng": "Church"
+      },
+      {
+        "id": "11",
+        "cat": "Biblioteca",
+        "esp": "Biblioteca",
+        "eng": "Library"
+      },
+      {
+        "id": "12",
+        "cat": "Teatre",
+        "esp": "Teatro",
+        "eng": "Theater"
+      },
+      {
+        "id": "13",
+        "cat": "Apartament",
+        "esp": "Apartamento",
+        "eng": "Apartment"
+      },
+      {
+        "id": "14",
+        "cat": "Habitatge Unifamiliar",
+        "esp": "Casa Unifamiliar",
+        "eng": "Detached House"
+      },
+      {
+        "id": "15",
+        "cat": "Oficina",
+        "esp": "Oficina",
+        "eng": "Office"
+      },
+      {
+        "id": "16",
+        "cat": "Club Esportiu",
+        "esp": "Club Deportivo",
+        "eng": "Sports Club"
+      },
+      {
+        "id": "17",
+        "cat": "Castell",
+        "esp": "Castillo",
+        "eng": "Castle"
+      },
+      {
+        "id": "18",
+        "cat": "Jardins",
+        "esp": "Jardines",
+        "eng": "Gardens"
+      },
+      {
+        "id": "19",
+        "cat": "Hospital",
+        "esp": "Hospital",
+        "eng": "Hospital"
+      },
+      {
+        "id": "20",
+        "cat": "Cementiri",
+        "esp": "Cementerio",
+        "eng": "Cemetery"
+      },
+      {
+        "id": "21",
+        "cat": "Parc",
+        "esp": "Parque",
+        "eng": "Park"
+      },
+      {
+        "id": "22",
+        "cat": "Piscina",
+        "esp": "Piscina",
+        "eng": "Swimming pool"
+      },
+      {
+        "id": "23",
+        "cat": "Barri",
+        "esp": "Barrio",
+        "eng": "Neighbourhood"
+      },
+      {
+        "id": "24",
+        "cat": "Passatge",
+        "esp": "Passaje",
+        "eng": "Passage"
+      },
+      {
+        "id": "25",
+        "cat": "Far",
+        "esp": "Faro",
+        "eng": "Lighthouse"
+      }
+    ]
+  }
+}
